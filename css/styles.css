@@ -1,0 +1,8 @@
+.yourLetter {
+  display: none;
+}
+.the-letter{
+  border: 1px solid lightgrey;
+  margin: 10px;
+  background: radial-gradient(white, tan)
+}
